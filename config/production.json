@@ -1,7 +1,7 @@
 {
-  "mongoURI": "mongodb+srv://Prakhar:prakhar@cluster0.tmt8n.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://XXXXXXXX:XXXXXXXX@cluster0.XXXXXXXX.mongodb.net/<XXXXX>?retryWrites=true&w=majority",
   "jwtSecret": "mysecrettoken",
   "tokenExpiration": 360000,
-  "githubClientId": "6ff4aa22a4d6a30db3b6",
-  "githubSecret": "67c2acaeeb54c34c448455ec30f1fb9cb37da8fe"
+  "githubClientId": "XXXXXXXXXXXXXXXXXXXXXXX",
+  "githubSecret": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 }
